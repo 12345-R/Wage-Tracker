@@ -1,0 +1,5 @@
+{
+  "name": "WageTracker",
+  "description": "A professional-grade wage and hour tracking application for Canadian small businesses. Features employee management, manual work entry, automated wage calculations, and exportable reports.",
+  "requestFramePermissions": []
+}
